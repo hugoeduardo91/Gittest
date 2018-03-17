@@ -1,5 +1,5 @@
 Very first comment
 
-We are now in the develop branch
+Log: added the develop branch
 
-Adding a new feature!
+Log: added a new feature!
